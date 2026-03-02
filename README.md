@@ -53,7 +53,7 @@ Dataset Source: Kaggle – Formula 1 World Championship Data 1950-2024
 
 ## 🔗 Kaggle Notebook (Project Code)
 
-👉 https://www.kaggle.com/code/nagratna5207/ml-project-nagratna
+👉 https://www.kaggle.com/code/rakshitpanwar18/f1-rakshit
 
 ---
 
@@ -73,6 +73,7 @@ Dataset Source: Kaggle – Formula 1 World Championship Data 1950-2024
 📍 Race: Abu Dhabi Grand Prix (2021)
 🚦 Grid Position: 1
 🎯 Win Probability: 87.32%
+
 
 
 
